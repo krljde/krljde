@@ -1,5 +1,5 @@
 Introduction
--👋Hi there, my name is Karl Jude and I am a social media manager. However, my true passion is web development and I am currently working towards making it my career.
+-👋Hi there, my name is Karl and I am a social media manager. However, my true passion is web development and I am currently working towards making it my career.
 
 🤹‍♂️Skills
 -I am currently learning languages such as ReactJS to help me build my own portfolio website. I have some familiarity with HTML, CSS, and JavaScript, but I am always looking to improve my skills and learn new things.
